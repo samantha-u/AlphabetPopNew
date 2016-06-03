@@ -1,0 +1,7 @@
+This is a Green Eggs & Sam file.
+cat
+dog
+hat
+boy
+toy
+car

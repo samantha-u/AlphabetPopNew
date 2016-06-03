@@ -1,0 +1,14 @@
+/**
+ * Auto Generated Java Class.
+ */
+public class Frame extends JFrame {
+  
+  public Frame()
+  {
+  }
+  
+  public static void switchScreen()
+  {
+  }
+  
+}

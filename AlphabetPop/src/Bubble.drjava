@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20140826-r5761">
+  <project autorefresh="false" build="../bin/" root="" work="../">
+    <createjar file=""/>
+    <source>
+      <file active="true" name="MainCanvas.java" package="" timestamp="15-May-2016 01:03:52">
+        <select from="146" to="146"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="Bubble.java" package="" timestamp="13-May-2016 11:22:36">
+        <select from="146" to="146"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="AwtControlDemo.java" package="" timestamp="14-May-2016 23:56:12">
+        <select from="146" to="146"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="FrameAlphabetPop.java" package="" timestamp="15-May-2016 00:21:22">
+        <select from="146" to="146"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="AlphabetPopDriver.java" package="" timestamp="15-May-2016 00:37:24">
+        <select from="146" to="146"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="PanelAlphabetPop.java" package="" timestamp="15-May-2016 00:40:00">
+        <select from="146" to="146"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="Splashscreen.java" package="" timestamp="15-May-2016 01:03:30">
+        <select from="146" to="146"/>
+        <scroll column="0" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath/>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>
